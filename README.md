@@ -68,9 +68,9 @@ Even though the project is structured within a single `index.html`, it utilizes:
 ```bash
 📦 Portfolio Repository
  ┣ 📜 index.html        # Main and complete portfolio file
- ┣ 📂 assets/           # Images, icons, resources (if included)
- ┣ 📂 css/              # Styles (if separated)
- ┣ 📂 js/               # Scripts (if separated)
+ ┣ 📂 assets/           # Images, icons, resources 
+ ┣ 📂 css/              # Styles 
+ ┣ 📂 js/               # Scripts 
  ┗ 📜 README.md         # Project documentation
 ```
 
@@ -123,28 +123,6 @@ No backend configuration required.
 
 ---
 
-## 📸 Sections Included  
-
-### 🏠 Home  
-Brief introduction and branding.
-
-### 🙋 About  
-Professional summary and background.
-
-### 💻 Skills  
-Technical stack and competencies.
-
-### 📁 Projects  
-Showcases selected academic and personal projects.
-
-### 📄 Resume  
-Downloadable resume link.
-
-### 📬 Contact  
-Ways to connect (email, social platforms, etc.).
-
----
-
 ## 📈 Future Improvements  
 
 Planned upgrades:
@@ -189,20 +167,12 @@ If you like this portfolio, consider giving the repository a star on GitHub!
 
 ---
 
-## 📜 License  
-
-This project is open-source and available under the MIT License (or specify your preferred license).
-
----
-
 ## 📬 Contact  
 
 For collaboration, internship opportunities, or freelance projects:
 
 📧 Email: tulasiramvdpst04@gmail.com
----
 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/tulasiram-v-3872672a6)
----
 💻 GitHub: https://github.com/tulasiram04
 
 ---
