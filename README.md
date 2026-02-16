@@ -200,8 +200,8 @@ This project is open-source and available under the MIT License (or specify your
 For collaboration, internship opportunities, or freelance projects:
 
 📧 Email: tulasiramvdpst04@gmail.com
-💼 LinkedIn: [([Add LinkedIn link here](https://www.linkedin.com/in/tulasiram-v-3872672a6)) ]() 
-💻 GitHub: (Add GitHub profile link here)  
+💼 LinkedIn: [([LinkedIn](https://www.linkedin.com/in/tulasiram-v-3872672a6)) ]
+💻 GitHub: https://github.com/tulasiram04
 
 ---
 
