@@ -62,7 +62,7 @@ Even though the project is structured within a single `index.html`, it utilizes:
 - **Git & GitHub** – Version Control  
 
 ---
-```
+
 ## 📂 Project Structure  
 
 ```bash
@@ -72,118 +72,140 @@ Even though the project is structured within a single `index.html`, it utilizes:
  ┣ 📂 css/              # Styles (if separated)
  ┣ 📂 js/               # Scripts (if separated)
  ┗ 📜 README.md         # Project documentation
-
-Note: In the current version, major components may be embedded directly within index.html.
 ```
-🚀 How to Run Locally
-1️⃣ Clone the Repository
+
+> **Note:** In the current version, major components may be embedded directly within `index.html`.
+
+---
+
+## 🚀 How to Run Locally  
+
+### 1️⃣ Clone the Repository  
+
+```bash
 git clone https://github.com/<your-username>/<repository-name>.git
-2️⃣ Navigate to the Folder
+```
+
+### 2️⃣ Navigate to the Folder  
+
+```bash
 cd <repository-name>
-3️⃣ Open in Browser
+```
+
+### 3️⃣ Open in Browser  
 
 Simply open:
 
+```
 index.html
+```
 
 Or use a local development server:
 
+```bash
 npx serve .
-🌍 Deployment
+```
 
-This portfolio is deployed as a static site using Vercel.
+---
 
-Steps to Deploy:
+## 🌍 Deployment  
 
-Push code to GitHub
+This portfolio is deployed as a static site using **Vercel**.
 
-Import repository into Vercel
+### Steps to Deploy:
 
-Select default static deployment
-
-Deploy
+1. Push code to GitHub  
+2. Import repository into Vercel  
+3. Select default static deployment  
+4. Deploy  
 
 No backend configuration required.
 
-📸 Sections Included
-🏠 Home
+---
 
+## 📸 Sections Included  
+
+### 🏠 Home  
 Brief introduction and branding.
 
-🙋 About
-
+### 🙋 About  
 Professional summary and background.
 
-💻 Skills
-
+### 💻 Skills  
 Technical stack and competencies.
 
-📁 Projects
-
+### 📁 Projects  
 Showcases selected academic and personal projects.
 
-📄 Resume
-
+### 📄 Resume  
 Downloadable resume link.
 
-📬 Contact
-
+### 📬 Contact  
 Ways to connect (email, social platforms, etc.).
 
-📈 Future Improvements
+---
+
+## 📈 Future Improvements  
 
 Planned upgrades:
 
-Separate CSS and JS into modular files
+- Separate CSS and JS into modular files  
+- Convert into React / Next.js version  
+- Add Dark / Light mode toggle  
+- Add animations using modern libraries  
+- Integrate GitHub API for dynamic project loading  
+- Improve accessibility (ARIA roles, semantic improvements)  
 
-Convert into React / Next.js version
+---
 
-Add Dark / Light mode toggle
-
-Add animations using modern libraries
-
-Integrate GitHub API for dynamic project loading
-
-Improve accessibility (ARIA roles, semantic improvements)
-
-🧩 Why Single index.html?
+## 🧩 Why Single `index.html`?  
 
 This version combines everything into one file for:
 
-Simplicity
-
-Easy hosting
-
-Faster deployment
-
-Beginner-friendly structure
+- Simplicity  
+- Easy hosting  
+- Faster deployment  
+- Beginner-friendly structure  
 
 Future versions may use a component-based architecture.
 
-🤝 Contribution
+---
+
+## 🤝 Contribution  
 
 This is a personal portfolio project, but suggestions and improvements are welcome.
 
 If you'd like to suggest enhancements:
 
-Fork the repository
+1. Fork the repository  
+2. Create a new branch  
+3. Submit a pull request  
 
-Create a new branch
+---
 
-Submit a pull request
-
-⭐ Support
+## ⭐ Support  
 
 If you like this portfolio, consider giving the repository a star on GitHub!
 
-📜 License
+---
+
+## 📜 License  
 
 This project is open-source and available under the MIT License (or specify your preferred license).
 
-📬 Contact
+---
+
+## 📬 Contact  
 
 For collaboration, internship opportunities, or freelance projects:
 
-📧 Email: (Add your email here)
-💼 LinkedIn: (Add LinkedIn link here)
-💻 GitHub: (Add GitHub profile link here)
+📧 Email: tulasiramvdpst04@gmail.com
+💼 LinkedIn: [([Add LinkedIn link here](https://www.linkedin.com/in/tulasiram-v-3872672a6)) ]() 
+💻 GitHub: (Add GitHub profile link here)  
+
+---
+
+## 🚀 Final Note  
+
+This portfolio represents my continuous learning journey in software development.  
+I am always open to feedback, collaboration, and opportunities to grow.
