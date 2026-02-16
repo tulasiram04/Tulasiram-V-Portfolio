@@ -103,7 +103,7 @@ index.html
 Or use a local development server:
 
 ```bash
-npx serve .
+npm run dev
 ```
 
 ---
